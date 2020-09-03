@@ -1,0 +1,30 @@
+ IFLAG_ZERO =            0  Number of Zeros=           0
+ IFLAG_ZERO =           0  NEQ_L =           0
+ NUMBER OF EQUATIONS    =    888450
+ NUMBER OF COEFFICIENTS =  31193623
+
+ NUMBER OF EQUATIONS (FOR REORDERING)    =    296150
+ NUMBER OF COEFFICIENTS (FOR REORDERING) =   3368675
+
+ MAXLNZ_NND =              67632316
+ MAXLNZ_MMD =              37129942
+ CPU  TIME FOR REORDERING               =   2.152344    
+  MAX_STACK_SIZE USED =              10000000       13224
+  MAX_STACK_SIZE USED =              10000000
+  MEMORY LEFT BEFORE BIG MATRIX ALLOCATION=            2802337628
+  MEMORY LEFT AFTER ALL ALLOCTIONS        = -1509279819
+  Number of Bytes for the Matrix =            2680463424
+  MAX_STACK_SIZE=              10000000
+ CPU  TIME FOR EXPAND                   =   1.230469    
+ ------ FACTOR TIME (1)       =    43.64062    
+ CPU  TIME FOR NUMERIC FACTORIZATION    =   43.82812    
+ TOTAL FACTOR TIME =   43.83594       In seconds
+  VSS2 TIME =   13.16797    
+  VSS2 TIME =   13.32031    
+  VSS2 TIME =   13.26172    
+  VSS2 TIME =   13.49219    
+  VSS2 TIME =   13.33984    
+  VSS2 TIME =   13.38672    
+  VSS2 TIME =   13.33984    
+  VSS2 TIME =   13.42188    
+  VSS2 TIME =   13.45703    
